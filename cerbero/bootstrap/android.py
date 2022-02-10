@@ -27,7 +27,7 @@ from cerbero.utils import _, shell
 NDK_VERSION = 'r23b'
 NDK_BASE_URL = 'https://dl.google.com/android/repository/android-ndk-%s-%s.zip'
 NDK_CHECKSUMS = {
-    'android-ndk-r23b-darwin.zip': 'f8672ea777521382da3f5e2dc57d8658',
+    'android-ndk-r23b-darwin.zip': 'e067b7402fdae85bfbe8af1822afd573b8e73dce443a8292fdaeb2e8dc3aeb86',
 }
 
 class AndroidBootstrapper (BootstrapperBase):
